@@ -1,0 +1,2 @@
+# Harvard-University-course-CS50-project-at-Scratch
+Harvard University's online course CS50: Introduction to Computer Science offers an intellectual journey into the realms of computer science and the art of programming. Through creating my first project on Scratch, I discovered the boundless potential of technology. Join this magical programming experience and unleash your full potential with CS50!
